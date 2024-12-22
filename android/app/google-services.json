@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50633806529",
+    "project_id": "newchat-84140",
+    "storage_bucket": "newchat-84140.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50633806529:android:09ed623087a734e300ba40",
+        "android_client_info": {
+          "package_name": "com.example.newchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcAeFJPCYRyRiD0GmNle-Spa3jPdftydc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
